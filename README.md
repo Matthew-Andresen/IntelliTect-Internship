@@ -10,8 +10,11 @@ Here are some of the things I've worked on over the years that I believe are per
 3. Linked List Class:
    A structure for organizing data based on nested "nodes" that contain data and references to their
    immediate neighboor. Contains methods for altering, reading, and displaying the list.
+4. Pygame Test:
+   Small project implementing the pygame package that involves a controllable cube, collision detection,
+   and control over the parameters that define the physics.
 
-4. Extras:
+6. Extras:
    There are several projects of mine that I no longer have access to or limited access to as they
    exist in software that was linked to my public school email which no longer exists. I would be
    happy to talk about them at length, however. These projects include an implementation of Conway's
